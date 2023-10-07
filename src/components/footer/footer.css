@@ -1,0 +1,48 @@
+/* Footer.css */
+
+.footer {
+    margin-top: 45px;
+  }
+
+  .foot-panel1 {
+    height: 60px;
+    background-color: #37475a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 1rem;
+  }
+
+  /* .logo{
+    position: absolute;
+    bottom: 0%;
+    height:90px;
+    width:150px;
+    background-image: url('../../assets/products/logo.png');
+    background-size: cover;
+} */
+
+  .foot-panel2 {
+    background-color: #222f3d;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    height: 366px;
+    justify-content: space-evenly;
+  }
+  
+  ul {
+    margin-top: 20px;
+    list-style: none;
+  }
+  
+  ul a {
+    display: block;
+    font-size: 0.85rem;
+    margin-top: 10px;
+    color: white;
+    text-decoration: none;
+  }
+  
+  
